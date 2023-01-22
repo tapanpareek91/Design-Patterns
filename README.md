@@ -55,7 +55,7 @@ Example : A fan wall control
 **3.4 Observer** - A way of notifying change to a number of classes
 Example : Bidding or auction, Publish/Subscribe
 
-*3.5 *Visitor** - Defines a new operation to a class without change. Example : Taxi
+**3.5 Visitor** - Defines a new operation to a class without change. Example : Taxi
 
 **3.6 Template** - Defines a skeleton of an algorithm in an operation, and defers some steps to subclasses.
 Example : A blue print
